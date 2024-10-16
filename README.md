@@ -22,7 +22,7 @@ I enjoy collaborating with cross-functional teams to solve complex problems, and
 
 ## Skills
 
-### Data Analysis & Modeling
+#### Data Analysis & Modeling
 - Data Analysis
 - Data Visualization
 - Machine Learning
@@ -32,28 +32,35 @@ I enjoy collaborating with cross-functional teams to solve complex problems, and
 - Regression Analysis
 - Forecasting
 
-### Data Management & Warehousing
+#### Data Management & Warehousing
 - Data Cleaning
 - Data Mining
 - Database Management
 - ETL (Extract, Transform, Load)
 - Data Warehousing
 
-### Business Intelligence & Reporting
+#### Business Intelligence & Reporting
 - Business Intelligence
 - Reporting Automation
 - Financial Analytics
 - Business Strategy
 
-### Other Skills
+#### Other Skills
 - Data Governance
 - Cloud Platforms (e.g., Microsoft Azure, AWS)
 - Time Management
 - Problem Solving
 - Communication Skills
 
-
 ## Education
+
+### M.Sc. in Business Analytics
+Dublin Business School
+First Class Honours
+
+### B.Sc.(Hons.) in Chemical and Process Engineering
+University of Moratuwa
+Second Upper Class with Specialisation in Sustainable Engineering
 
 ## Experience
 
