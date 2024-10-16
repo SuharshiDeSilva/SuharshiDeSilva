@@ -1,4 +1,4 @@
-## Welcome to my GitHub!
+# Welcome to my GitHub!
 
 I am a passionate data analytics enthusiast with an MSc in Business Analytics and a strong foundation in data analysis, visualization, and machine learning. With experience in data-driven roles, I specialize in delivering actionable insights and process improvements across various industries. My projects have spanned from developing machine learning models for phishing detection to creating interactive dashboards for operational transparency and decision-making.
 
@@ -22,7 +22,7 @@ I enjoy collaborating with cross-functional teams to solve complex problems, and
 
 ## Skills
 
-# Data Analysis & Modeling
+### Data Analysis & Modeling
 - Data Analysis
 - Data Visualization
 - Machine Learning
@@ -32,20 +32,20 @@ I enjoy collaborating with cross-functional teams to solve complex problems, and
 - Regression Analysis
 - Forecasting
 
-# Data Management & Warehousing
+### Data Management & Warehousing
 - Data Cleaning
 - Data Mining
 - Database Management
 - ETL (Extract, Transform, Load)
 - Data Warehousing
 
-# Business Intelligence & Reporting
+### Business Intelligence & Reporting
 - Business Intelligence
 - Reporting Automation
 - Financial Analytics
 - Business Strategy
 
-# Other Skills
+### Other Skills
 - Data Governance
 - Cloud Platforms (e.g., Microsoft Azure, AWS)
 - Time Management
