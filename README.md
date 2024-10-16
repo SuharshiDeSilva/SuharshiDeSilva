@@ -22,9 +22,7 @@ I enjoy collaborating with cross-functional teams to solve complex problems, and
 
 ## Skills
 
-<table>
-  <tr>
-    <td>
+<div style="column-count: 2;">
 - Data Analysis
 - Data Visualization
 - Machine Learning
@@ -36,8 +34,6 @@ I enjoy collaborating with cross-functional teams to solve complex problems, and
 - Database Management
 - ETL (Extract, Transform, Load)
 - Data Warehousing
-</td>
-    <td>
 - Reporting Automation
 - Regression Analysis
 - Forecasting
@@ -49,9 +45,7 @@ I enjoy collaborating with cross-functional teams to solve complex problems, and
 - Time Management
 - Problem Solving
 - Communication Skills
-</td>
-  </tr>
-</table>
+<\div>
 
 ## Education
 
