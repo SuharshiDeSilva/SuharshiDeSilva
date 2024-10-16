@@ -46,4 +46,23 @@ Second Upper Class with Specialisation in Sustainable Engineering
 
 ## Experience
 
+#### Research Assitant, University of Galway(2024)
+Contributed to a European project by analyzing wastewater treatment data and providing insights to support decision-making.
+- Leveraged Power BI to extract and visualize data insights from intricate datasets.
+- Maintained effective team collaboration by tracking project progress and engaging in problem-solving.
+- Prepared detailed reports ensuring accuracy and alignment with project requirements.
+
+
+
+#### Operations Analyst, MAS Holdings (Pvt.) Ltd.(2021-2023)
+Responsible for ensuring the smooth production flow in a textile manufacturing company by addressing operational bottlenecks and driving process improvements.
+- Collaborated with cross-functional teams to meet production goals and deliver on manufacturing requirements.
+- Acted as a liaison between management and operations to ensure seamless project execution.
+- Contributed to production planning and process improvement initiatives to enhance efficiency and sustainability.
+
+#### Engineering Trainee – Ansell Lanka (Pvt.) Ltd. (2019)
+Supported the manufacturing team by optimizing workflows and ensuring high standards in medical glove production.
+- Monitored critical operational parameters to maintain optimal workflow and quality control.
+- Collaborated with cross-functional teams on process optimization efforts, improving manufacturing efficiency.
+
 ## Projects
