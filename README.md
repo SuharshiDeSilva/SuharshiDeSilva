@@ -45,7 +45,7 @@ I enjoy collaborating with cross-functional teams to solve complex problems, and
 - Time Management
 - Problem Solving
 - Communication Skills
-<\div>
+</div>
 
 ## Education
 
