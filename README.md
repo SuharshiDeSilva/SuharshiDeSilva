@@ -22,30 +22,36 @@ I enjoy collaborating with cross-functional teams to solve complex problems, and
 
 ## Skills
 
-<div style="column-count: 2;">
+# Data Analysis & Modeling
 - Data Analysis
 - Data Visualization
 - Machine Learning
 - Statistical Analysis
 - Predictive Analytics
+- Data Modeling
+- Regression Analysis
+- Forecasting
+
+# Data Management & Warehousing
 - Data Cleaning
 - Data Mining
-- Business Intelligence
 - Database Management
 - ETL (Extract, Transform, Load)
 - Data Warehousing
+
+# Business Intelligence & Reporting
+- Business Intelligence
 - Reporting Automation
-- Regression Analysis
-- Forecasting
 - Financial Analytics
-- Data Modeling
 - Business Strategy
+
+# Other Skills
 - Data Governance
-- Cloud Platforms
+- Cloud Platforms (e.g., Microsoft Azure, AWS)
 - Time Management
 - Problem Solving
 - Communication Skills
-</div>
+
 
 ## Education
 
