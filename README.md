@@ -4,7 +4,6 @@ I am a passionate data analytics enthusiast with an MSc in Business Analytics an
 
 I enjoy collaborating with cross-functional teams to solve complex problems, and I am always keen to explore new ways to leverage data for innovation and efficiency. Let's connect and build something impactful together!
 
-## Languages & Tools
 ## Languages and Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
