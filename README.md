@@ -6,20 +6,52 @@ I enjoy collaborating with cross-functional teams to solve complex problems, and
 
 ## Languages and Tools
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![JIRA](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Draw.io](https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
-
+<p align="left">
+  <img src="https://raw.githubusercontent.com/your-username/your-repository/main/icons/python.png" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/your-username/your-repository/main/icons/sql.png" alt="SQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/your-username/your-repository/main/icons/javascript.png" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/your-username/your-repository/main/icons/html.png" alt="HTML" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/your-username/your-repository/main/icons/powerbi.png" alt="Power BI" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/your-username/your-repository/main/icons/tableau.png" alt="Tableau" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/your-username/your-repository/main/icons/excel.png" alt="Excel" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/your-username/your-repository/main/icons/azure.png" alt="Microsoft Azure" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/your-username/your-repository/main/icons/scikit.png" alt="Scikit-learn" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/your-username/your-repository/main/icons/jira.png" alt="JIRA" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/your-username/your-repository/main/icons/drawio.png" alt="Draw.io" width="40" height="40"/>
+</p>
 
 ## Skills
+
+<table>
+  <tr>
+    <td>
+- Data Analysis
+- Data Visualization
+- Machine Learning
+- Statistical Analysis
+- Predictive Analytics
+- Data Cleaning
+- Data Mining
+- Business Intelligence
+- Database Management
+- ETL (Extract, Transform, Load)
+- Data Warehousing
+</td>
+    <td>
+- Reporting Automation
+- Regression Analysis
+- Forecasting
+- Financial Analytics
+- Data Modeling
+- Business Strategy
+- Data Governance
+- Cloud Platforms
+- Time Management
+- Problem Solving
+- Communication Skills
+</td>
+  </tr>
+</table>
 
 ## Education
 
